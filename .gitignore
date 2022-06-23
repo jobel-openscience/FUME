@@ -11,4 +11,5 @@ borrame*
 *.h
 *.user
 OLD*
-
+*.png
+*.PNG
