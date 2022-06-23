@@ -1,0 +1,12 @@
+name: FUME
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - xarray
+  - jupyterlab
+  - ipython
+  - netcdf4
